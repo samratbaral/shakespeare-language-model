@@ -4,6 +4,9 @@ authors:
   - family-names: "Baral"
     given-names: "Samrat"
     orcid:
+   - family-names: "Bard"
+    given-names: "Jason"
+    orcid:
 title: "Shakespeare Natural Language Model RNNs "
 version: 1.0.0
 doi:
